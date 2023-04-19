@@ -1,0 +1,137 @@
+.fa-calendar{
+    cursor: pointer;
+    
+}
+
+
+.calendar_month{
+    position: absolute; 
+    width: 150px; 
+    left: -122px; 
+    font-size: 18px;
+}
+
+.calendar_month-button{
+    border-radius: 5px; 
+    position: absolute; 
+    left: -175px; 
+    font-size: 18px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.calendar_search{
+    display: none;
+}
+
+.calendar_search.active{
+    position: absolute;
+    display: block;
+}
+
+
+
+.fa-clipboard-list{
+    cursor: pointer;
+    
+}
+
+
+.orders_month{
+    position: absolute; 
+    width: 150px; 
+    left: -122px; 
+    font-size: 18px;
+}
+
+.orders_month-button{
+    border-radius: 5px; 
+    position: absolute; 
+    left: -175px; 
+    font-size: 18px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.orders_search{
+    display: none;
+}
+
+.orders_search.active{
+    position: absolute;
+    display: block;
+}
+
+
+
+
+
+.fa-dollar-sign{
+    cursor: pointer;
+    
+}
+
+
+.revenue_year{
+    position: absolute; 
+    width: 150px; 
+    left: -122px; 
+    font-size: 18px;
+}
+
+.revenue_year-button{
+    border-radius: 5px; 
+    position: absolute; 
+    left: -175px; 
+    font-size: 18px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.revenue_search{
+    display: none;
+}
+
+.revenue_search.active{
+    position: absolute;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+.fa-dollar-sign-2{
+    cursor: pointer;
+    
+}
+
+
+.revenue_year-second{
+    position: absolute; 
+    width: 150px; 
+    left: -122px; 
+    font-size: 18px;
+}
+
+.revenue_year-button-second{
+    border-radius: 5px; 
+    position: absolute; 
+    left: -175px; 
+    font-size: 18px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.revenue_search-second{
+    display: none;
+}
+
+.revenue_search-second.active{
+    position: absolute;
+    display: block;
+}
+
+
+
